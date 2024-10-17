@@ -63,8 +63,8 @@ docker pull registry.k8s.io/scl-image-builder/cluster-node-image-builder-amd64:v
       PROXMOX_ISO_POOL=tower
       PROXMOX_NODE=pve-c
       PROXMOX_STORAGE_POOL=cephfs
-      PROXMOX_TOKEN=64997dbb-83ac-4878-bbf2-04c0299d02da
-      PROXMOX_URL=https://10.0.0.21:8006/api2/json
+      PROXMOX_TOKEN=xxxxxxxx
+      PROXMOX_URL=https://1.2.3.4:8006/api2/json
       PROXMOX_USERNAME=capmox@pve!capi
       ```
 
